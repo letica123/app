@@ -20,3 +20,20 @@ como um lego, você irá utilizar peçaspara criar algoritmos, ou seja, para res
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 apresentar os dados
+
+## Escopo e variáveis:
+
+Variáveis globais e locais
+Constantes
+**escopos**
+quando você usa as chaves {} significa q você está em um escopo diferente.
+- escopo é tipo um "grupo" separado do resto dos códigos, quando um comando ta dentro de um escopo, ele é considerado local. Quando ta fora, global.
+## tipos de dados
+strings (textos): podem ser escritos com "" '' ``
+Number: numeros
+function
+
+
+## operadores
+
+operadores de atribuição de valor (=)
