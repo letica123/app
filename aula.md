@@ -32,8 +32,27 @@ quando você usa as chaves {} significa q você está em um escopo diferente.
 strings (textos): podem ser escritos com "" '' ``
 Number: numeros
 function
-
+boolean: true or false
 
 ## operadores
 
-operadores de atribuição de valor (=)
+operadores de atribuição de valor(=)
+ operador de concatenação (+)
+
+## estruturas de dados:
+
+### Arrays:
+
+Uma lista que contém qualquer tipo de dado
+
+### objetos:
+
+atributos e métodos
+Criação e manpulação de objetos
+Acesso a propriedades de objetos
+
+## Functions
+
+- criar, passar argumento
+- executar
+- arrow function / named function
