@@ -36,8 +36,10 @@ boolean: true or false
 
 ## operadores
 
-operadores de atribuição de valor(=)
- operador de concatenação (+)
+- operadores de atribuição de valor(=)
+-  operador de concatenação (+)
+- operadores de comparação: == (igual) != (diferente) <> (menor, maior) <= (menor igual) >= (maior igual)
+
 
 ## estruturas de dados:
 
@@ -62,6 +64,7 @@ Acesso a propriedades de objetos
 
 ## condicionais
 - switch
+- if/else (controle de fluxo)
 
 ## módulos em node.js:
 Importação de módulos (require, CommonJS)
