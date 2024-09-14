@@ -39,6 +39,7 @@ boolean: true or false
 - operadores de atribuição de valor(=)
 -  operador de concatenação (+)
 - operadores de comparação: == (igual) != (diferente) <> (menor, maior) <= (menor igual) >= (maior igual)
+- spread operator: ...
 
 
 ## estruturas de dados:
@@ -46,6 +47,7 @@ boolean: true or false
 ### Arrays:
 
 Uma lista que contém qualquer tipo de dado
+Métodos de Array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### objetos:
 
