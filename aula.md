@@ -71,6 +71,13 @@ Acesso a propriedades de objetos
 ## módulos em node.js:
 Importação de módulos (require, CommonJS)
 Blibioteca 'inquirer'para criar prompts interativos
+FS (file system)
+
+ ## JSON
+ - Javascript Object Notation (.json)
+ - JSON.parse(): transforma de JSON para JS
+ - Json.stringfy(): transforma de JS para JSON
+
 
 ## programação assíncrona e promessas:
 Uso de funções assíncronas (async/await)
